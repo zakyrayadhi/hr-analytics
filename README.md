@@ -77,7 +77,7 @@ The Power BI dashboard provides:
 
 ### Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard/Dashboard Preview.png)
 
 ---
 
